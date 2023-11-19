@@ -11,6 +11,10 @@
     font-family: "Arterio";
     src: url("/fonts/arterio/ArterioNonCommercial.otf") format('opentype');
 }
+@font-face {
+    font-family: "Garet";
+    src: url("/fonts/garet/Garet-Book.otf") format('opentype');
+}
 
 :root {
 
@@ -103,9 +107,13 @@ h6 {
 .font4 {
     font-family: "Arterio", cursive;
 }
+.font5 {
+    font-family: "Garet", cursive;
+}
 
 .fonts {
     display: flex;
+    flex-wrap: wrap;
 }
 
 h2 {
