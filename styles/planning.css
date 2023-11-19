@@ -18,13 +18,14 @@
 
 :root {
 
+    /* first palette test */
     --primary-color: #936E5C;
     --secondary-color: #E29578;
     --accent1-color: #ededed;
     --accent2-color: #76A779;
     --accent3-color: #201F29;
 
-    --heading-font: "Harmond", cursive;
+    --heading-font: "Magilio", cursive;
     --paragraph-font: 'DM Sans', sans-serif;
 
     --headline-color-on-white: #76A779;
