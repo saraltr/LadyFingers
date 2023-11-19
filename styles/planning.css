@@ -7,6 +7,10 @@
     font-family: "Magilio";
     src: url("/fonts/magilio-font/MagilioRegular-8Mxvg.otf") format('opentype');
 }
+@font-face {
+    font-family: "Arterio";
+    src: url("/fonts/arterio/ArterioNonCommercial.otf") format('opentype');
+}
 
 :root {
 
@@ -95,6 +99,9 @@ h6 {
 }
 .font3 {
     font-family: "Magilio", cursive;
+}
+.font4 {
+    font-family: "Arterio", cursive;
 }
 
 .fonts {
